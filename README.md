@@ -17,8 +17,8 @@ Parts List:
 | LED2 | Orange LED |
 | LED3 | Yellow LED |
 
-| Part | Value |
-| --- | --- |
+| Part | Value | DigikeyPN |
+| --- | --- | --- |
 | BT1,BT2 | AA Battery Connector |
-| C1 | 2.2uF |
-| C2 | 2.2uF |
+| C1,C2 | 2.2uF |
+| D1 | B340A |
