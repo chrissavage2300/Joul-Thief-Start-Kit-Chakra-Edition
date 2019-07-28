@@ -19,6 +19,6 @@ Parts List:
 
 | Part | Value | DigikeyPN |
 | --- | --- | --- |
-| BT1,BT2 | AA Battery Connector |
+| BT1,BT2 | AA Battery Connector | BK-92-ND |
 | C1,C2 | 2.2uF |
 | D1 | B340A |
