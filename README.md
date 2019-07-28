@@ -16,3 +16,8 @@ Parts List:
 | LED1 | RED LED |
 | LED2 | Orange LED |
 | LED3 | Yellow LED |
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
