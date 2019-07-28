@@ -19,5 +19,5 @@ Parts List:
 
 | Command | Description |
 | --- | --- |
-| git status | List all new or modified files |
+| BT1 | AA Battery Connector |
 | git diff | Show file differences that haven't been staged |
