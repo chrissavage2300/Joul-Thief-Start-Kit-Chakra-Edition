@@ -17,7 +17,8 @@ Parts List:
 | LED2 | Orange LED |
 | LED3 | Yellow LED |
 
-| Command | Description |
+| Part | Value |
 | --- | --- |
-| BT1 | AA Battery Connector |
-| git diff | Show file differences that haven't been staged |
+| BT1,BT2 | AA Battery Connector |
+| C1 | 2.2uF |
+| C2 | 2.2uF |
